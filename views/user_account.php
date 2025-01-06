@@ -75,12 +75,8 @@ $available_accommodations = $stmt->fetchAll();
 <body>
 
     <div class="container my-5">
-    <nav class="navbar navbar-dark bg-primary">
-                
+    <nav class="navbar navbar-dark bg-primary">               
                    <a class="navbar-brand" href="../index.php">Inicio</a>
-                
-                    
-               
             </nav>
         <h1 class="mb-4">Mis Alojamientos</h1>
         <!-- Botón para abrir el modal -->
